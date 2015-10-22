@@ -93,7 +93,7 @@ cacheSolve <- function(x, ...) {
     m
 }
 
-# If you would like to you one of my 2 examples of Matrixes (3x3 and 4x4)
+# If you would like to use one of my 2 examples of Matrixes (3x3 and 4x4)
 # than you are very welcome to :) 
 Macierz <- matrix(c(2,5,7,6,3,4,5,-2,-3),nrow = 3,byrow = TRUE)
 Macierz2 <- matrix(c(1,2,3,4,2,3,1,2,1,1,1,-1,1,0,-2,-6),nrow = 4,byrow = TRUE)
